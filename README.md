@@ -80,24 +80,27 @@ Using your favorite graphing software (e.g., MS Excel or Google Sheets), plot th
 each case. Take a screenshot of your graph and put them here by modifying this file, committing, and pushing
 it to this repository.
 
-Insertion, search, and deletion running time (already sorted):
+Insertion, search, and deletion running time (already sorted):<img width="602" alt="Screenshot 2024-12-02 at 6 27 06 PM" src="https://github.com/user-attachments/assets/dc78a001-accd-4805-80bf-7d5ddff89654">
+
 
 ![Firefly picture of a cat 86147](https://github.com/user-attachments/assets/8b2d008e-3011-4979-97b8-fa2e9886a01a)
 
 
-Insertion, search, and deletion running time (shuffled):
+Insertion, search, and deletion running time (shuffled):<img width="604" alt="Screenshot 2024-12-02 at 6 27 11 PM" src="https://github.com/user-attachments/assets/622df820-e90c-4585-87af-b291af9cf0cc">
 
-Insertion, search, and deletion running time (reversed):
+
+Insertion, search, and deletion running time (reversed):<img width="598" alt="Screenshot 2024-12-02 at 6 27 17 PM" src="https://github.com/user-attachments/assets/64de1d14-949f-45ab-899d-5b632bd32091">
+
 
 ## 5. **Document your Dataset and Results**
 Document the source of your dataset and any modifications you made to it. Describe the results of your analysis and 
 how it compares to the theoretical performance of the hash table operations.
 
-Dataset Source: // FINISH ME
+Dataset Source: [// FINISH ME](https://www.kaggle.com/datasets/arnavvvvv/spotify-music)
 
-Dataset Modifications ("None" if unchanged): // FINISH ME
+Dataset Modifications ("None" if unchanged): None
 
-Result Analysis: // FINISH ME
+Result Analysis: The performance of insertion, search, and deletion operations is significantly influenced by the initial state of the list. Insertion into sorted lists is most time-consuming, while shuffled and reversed lists offer better performance for insertion. Search and deletion operations are relatively more stable but tend to be faster in shuffled and reversed lists compared to sorted ones. These observations highlight the importance of considering the initial data layout when evaluating the performance of various list operations.
 
 ## Submission:
 
