@@ -1,0 +1,170 @@
+Number of Lines: 100
+Sorted List:
+Insertion Time: 69292 ns
+Search Time: 21041 ns
+Deletion Time: 27209 ns
+
+Shuffled List:
+Insertion Time: 33125 ns
+Search Time: 20875 ns
+Deletion Time: 25084 ns
+
+Reversed List:
+Insertion Time: 27458 ns
+Search Time: 19458 ns
+Deletion Time: 25625 ns
+
+
+Number of Lines: 200
+Sorted List:
+Insertion Time: 352875 ns
+Search Time: 84000 ns
+Deletion Time: 65583 ns
+
+Shuffled List:
+Insertion Time: 147500 ns
+Search Time: 75875 ns
+Deletion Time: 60167 ns
+
+Reversed List:
+Insertion Time: 319166 ns
+Search Time: 67458 ns
+Deletion Time: 56500 ns
+
+
+Number of Lines: 300
+Sorted List:
+Insertion Time: 431333 ns
+Search Time: 100542 ns
+Deletion Time: 84666 ns
+
+Shuffled List:
+Insertion Time: 279333 ns
+Search Time: 24792 ns
+Deletion Time: 42458 ns
+
+Reversed List:
+Insertion Time: 215500 ns
+Search Time: 34583 ns
+Deletion Time: 44792 ns
+
+
+Number of Lines: 400
+Sorted List:
+Insertion Time: 514250 ns
+Search Time: 79250 ns
+Deletion Time: 103083 ns
+
+Shuffled List:
+Insertion Time: 180875 ns
+Search Time: 29125 ns
+Deletion Time: 125958 ns
+
+Reversed List:
+Insertion Time: 208959 ns
+Search Time: 47833 ns
+Deletion Time: 143583 ns
+
+
+Number of Lines: 500
+Sorted List:
+Insertion Time: 500583 ns
+Search Time: 108458 ns
+Deletion Time: 129541 ns
+
+Shuffled List:
+Insertion Time: 251667 ns
+Search Time: 36875 ns
+Deletion Time: 71750 ns
+
+Reversed List:
+Insertion Time: 186875 ns
+Search Time: 147500 ns
+Deletion Time: 225208 ns
+
+
+Number of Lines: 600
+Sorted List:
+Insertion Time: 556458 ns
+Search Time: 125333 ns
+Deletion Time: 133459 ns
+
+Shuffled List:
+Insertion Time: 205375 ns
+Search Time: 44875 ns
+Deletion Time: 89792 ns
+
+Reversed List:
+Insertion Time: 156958 ns
+Search Time: 37791 ns
+Deletion Time: 86583 ns
+
+
+Number of Lines: 700
+Sorted List:
+Insertion Time: 891625 ns
+Search Time: 205416 ns
+Deletion Time: 166667 ns
+
+Shuffled List:
+Insertion Time: 198083 ns
+Search Time: 57625 ns
+Deletion Time: 69667 ns
+
+Reversed List:
+Insertion Time: 174667 ns
+Search Time: 41167 ns
+Deletion Time: 39958 ns
+
+
+Number of Lines: 800
+Sorted List:
+Insertion Time: 757666 ns
+Search Time: 126083 ns
+Deletion Time: 160125 ns
+
+Shuffled List:
+Insertion Time: 419875 ns
+Search Time: 60875 ns
+Deletion Time: 278583 ns
+
+Reversed List:
+Insertion Time: 216000 ns
+Search Time: 48542 ns
+Deletion Time: 52250 ns
+
+
+Number of Lines: 900
+Sorted List:
+Insertion Time: 929125 ns
+Search Time: 140375 ns
+Deletion Time: 148625 ns
+
+Shuffled List:
+Insertion Time: 231125 ns
+Search Time: 69125 ns
+Deletion Time: 89875 ns
+
+Reversed List:
+Insertion Time: 339667 ns
+Search Time: 53375 ns
+Deletion Time: 54166 ns
+
+
+Number of Lines: 900
+Sorted List:
+Insertion Time: 898292 ns
+Search Time: 148083 ns
+Deletion Time: 211000 ns
+
+Shuffled List:
+Insertion Time: 309875 ns
+Search Time: 67500 ns
+Deletion Time: 275292 ns
+
+Reversed List:
+Insertion Time: 211375 ns
+Search Time: 51458 ns
+Deletion Time: 58000 ns
+
+
